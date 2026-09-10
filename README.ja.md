@@ -16,7 +16,7 @@ KAT (KillFrenzy Avatar Text) のタイル配置に準拠しています。
 
 1. 次のリンクを開き、**Add to VCC** でリスティングを追加します
 
-   https://mtytheone.github.io/MuchioFontAtlasToolPage/
+   https://mtytheone.github.io/HatzeLaboratory-VPM-Page/
 
 2. VCC でプロジェクトの **Manage Project** を開き、`Muchio FontAtlasTool` の **+** を押します
 

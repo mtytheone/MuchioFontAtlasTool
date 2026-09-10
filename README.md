@@ -18,7 +18,7 @@ Just drop the generated texture into the material's `_MainTex` — the font chan
 
 1. Open the link below and press **Add to VCC** to register the listing
 
-   https://mtytheone.github.io/MuchioFontAtlasToolPage/
+   https://mtytheone.github.io/HatzeLaboratory-VPM-Page/
 
 2. Open **Manage Project** in VCC and press **+** on `Muchio FontAtlasTool`
 
