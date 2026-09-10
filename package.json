@@ -1,0 +1,23 @@
+{
+  "name": "com.hatzelaboratory.muchio.fontatlastool",
+  "displayName": "Muchio FontAtlasTool",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "ムチォの文字盤フォントを、好きなフォントに差し替えるための Unity エディタ拡張。\nKAT (KillFrenzy Avatar Text) 準拠。",
+  "author": {
+    "name": "HatzeLaboratory",
+    "url": "https://github.com/mtytheone"
+  },
+  "license": "MIT",
+  "licensesUrl": "https://github.com/mtytheone/Muchio_Font_Tool/blob/master/LICENSE.md",
+  "documentationUrl": "https://github.com/mtytheone/Muchio_Font_Tool/blob/master/README.ja.md",
+  "changelogUrl": "https://github.com/mtytheone/Muchio_Font_Tool/blob/master/CHANGELOG.md",
+  "keywords": [
+    "vrchat",
+    "muchio",
+    "kat",
+    "font",
+    "editor"
+  ],
+  "vpmDependencies": {}
+}
