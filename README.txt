@@ -23,7 +23,7 @@ KAT (KillFrenzy Avatar Text) のタイル配置に準拠しています。
 
   1. 次のリンクを開き、「Add to VCC」でリスティングを追加します
 
-     https://mtytheone.github.io/Muchio_Font_Tool_Listing/
+     https://mtytheone.github.io/MuchioFontAtlasToolPage/
 
   2. VCC でプロジェクトの Manage Project を開き、
      Muchio FontAtlasTool の「+」を押します
@@ -33,7 +33,7 @@ KAT (KillFrenzy Avatar Text) のタイル配置に準拠しています。
   Packages/manifest.json の dependencies に追加：
 
     "com.hatzelaboratory.muchio.fontatlastool":
-    "https://github.com/mtytheone/Muchio_Font_Tool.git"
+    "https://github.com/mtytheone/MuchioFontAtlasTool.git"
 
   または Unity 上で
     Window > Package Manager > + > Add package from git URL...

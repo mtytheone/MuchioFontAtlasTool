@@ -18,7 +18,7 @@ Just drop the generated texture into the material's `_MainTex` — the font chan
 
 1. Open the link below and press **Add to VCC** to register the listing
 
-   https://mtytheone.github.io/Muchio_Font_Tool_Listing/
+   https://mtytheone.github.io/MuchioFontAtlasToolPage/
 
 2. Open **Manage Project** in VCC and press **+** on `Muchio FontAtlasTool`
 
@@ -27,7 +27,7 @@ Just drop the generated texture into the material's `_MainTex` — the font chan
 Add to `dependencies` in `Packages/manifest.json`:
 
 ```json
-"com.hatzelaboratory.muchio.fontatlastool": "https://github.com/mtytheone/Muchio_Font_Tool.git"
+"com.hatzelaboratory.muchio.fontatlastool": "https://github.com/mtytheone/MuchioFontAtlasTool.git"
 ```
 
 Or in Unity: **Window > Package Manager > + > Add package from git URL...**
